@@ -349,7 +349,7 @@ void display(){
 
 void animate(){
 
-    angle += sign*0.05 ;
+    angle += 7 ;
 //codes for any changes in Models, Camera
 	glutPostRedisplay();
 }
